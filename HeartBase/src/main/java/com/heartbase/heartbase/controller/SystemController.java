@@ -1,13 +1,13 @@
 package com.heartbase.heartbase.controller;
 
 import com.heartbase.heartbase.service.SystemService;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.List;
 import java.util.ArrayList;
-@RestController
+@RestController()
+@RequestMapping("/api")
 public class SystemController {
 
     private final SystemService systemService;
