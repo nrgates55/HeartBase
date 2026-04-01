@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5446c372-7d74-4c21-af65-d7b79b25713b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/config/WebsocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/controller/PowerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/controller/SystemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/controller/TerminalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/dto/TerminalStatusResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/service/PowerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/service/SystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/service/TerminalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBase/src/main/java/heart/backend/heartbase/websocket/TerminalWebsocketHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nrgates55&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:nrgates55/HeartBase.git&quot;,
+    &quot;accountId&quot;: &quot;8dfb2d5c-4b5a-451f-8d79-9062dd31a786&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BXgoUay6KhVLH7ta5OPhalwN3v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "hb__0.0.1",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HeartBase/src/main" />
+      <recent name="$PROJECT_DIR$/HeartBase/src/test/java/com/heartbase/heartbase" />
+      <recent name="$PROJECT_DIR$/HeartBase/src/main/java/com/heartbase1" />
+      <recent name="$PROJECT_DIR$/HeartBase/src/main/java/com/heartbase" />
+      <recent name="$PROJECT_DIR$/HeartBase/src/test/java" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5446c372-7d74-4c21-af65-d7b79b25713b" name="Changes" comment="" />
+      <created>1774641004633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774641004633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
