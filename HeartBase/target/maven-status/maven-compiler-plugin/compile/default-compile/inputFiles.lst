@@ -6,7 +6,6 @@
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/controller/SystemController.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/controller/TerminalController.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/dto/LoginRequest.java
-/home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/dto/LoginResponse.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/dto/TerminalStatusResponse.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/service/AuthService.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/service/PowerService.java
