@@ -1,8 +1,7 @@
 package heart.backend.heartbase.service;
 
+import heart.backend.heartbase.terminal.ShellSession;
 import org.springframework.stereotype.Service;
-
-import java.io.IOException;
 
 @Service
 public class TerminalService {
@@ -12,7 +11,7 @@ public class TerminalService {
     public TerminalService() {
         try {
             this.shellSession = new ShellSession();
-        } catch (IOException e) {
+        } catch (Exception e) {
             throw new RuntimeException("Failed to start shell session.", e);
         }
     }

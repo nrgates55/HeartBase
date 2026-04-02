@@ -1,4 +1,4 @@
-package heart.backend.heartbase.service;
+package heart.backend.heartbase.terminal;
 
 import java.io.*;
 

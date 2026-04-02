@@ -1,6 +1,6 @@
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/HeartBaseApplication.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/config/SecurityConfig.java
-/home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/config/WebsocketConfig.java
+/home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/config/WebSocketConfig.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/controller/AuthController.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/controller/PowerController.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/controller/SystemController.java
@@ -15,4 +15,4 @@
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/terminal/TerminalMessage.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/terminal/TerminalOutputListener.java
 /home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/util/CommandUtils.java
-/home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/websocket/TerminalWebsocketHandler.java
+/home/nicholas/IdeaProjects/HeartBase/HeartBase/src/main/java/heart/backend/heartbase/websocket/TerminalWebSocketHandler.java

@@ -1,7 +1,7 @@
 heart/backend/heartbase/controller/AuthController.class
 heart/backend/heartbase/service/AuthService.class
 heart/backend/heartbase/service/PowerService.class
-heart/backend/heartbase/service/ShellSession.class
+heart/backend/heartbase/terminal/ShellSession.class
 heart/backend/heartbase/dto/LoginRequest.class
 heart/backend/heartbase/controller/TerminalController.class
 heart/backend/heartbase/service/SystemService.class
@@ -9,6 +9,8 @@ heart/backend/heartbase/controller/SystemController.class
 heart/backend/heartbase/util/CommandUtils.class
 heart/backend/heartbase/HeartBaseApplication.class
 heart/backend/heartbase/config/SecurityConfig.class
+heart/backend/heartbase/websocket/TerminalWebSocketHandler.class
 heart/backend/heartbase/controller/PowerController.class
 heart/backend/heartbase/terminal/TerminalMessage.class
 heart/backend/heartbase/service/TerminalService.class
+heart/backend/heartbase/config/WebSocketConfig.class
