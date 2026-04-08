@@ -7,11 +7,9 @@ public class PowerService {
 
     public String powerOn() {
         try {
-            ProcessBuilder pb = new ProcessBuilder("systemctl", "suspend");
-            pb.start();
-            return "Sleep command sent.";
+            return "Wake handled externally (WOL packet)";
         } catch (Exception e) {
-            return "Failed to put system to sleep: " + e.getMessage();
+            return "Failed to wake: " + e.getMessage();
         }
     }
 
